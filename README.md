@@ -7,7 +7,7 @@ This is my personal portfolio website showcasing my projects, skills, education,
 ## 🔗 Live Demo
 
 You can view my portfolio live here:  
-[Portfolio Website](your-live-link-if-deployed)
+[Portfolio Website](https://b-bharath-kumar-reddy-portfolio.vercel.app/)
 
 ---
 
