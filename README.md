@@ -15,7 +15,7 @@ You can view my portfolio live here:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - Google Apps Script (for contact form submissions to Google Sheets)
 - Fully Responsive Design
 - Dark/Light Mode Toggle
@@ -35,10 +35,8 @@ You can view my portfolio live here:
 
 ---
 
-## 📞 Contact Information
+## 🌐 Social Profiles
 
-- 📧 Email: bharathboienipalli@gmail.com
-- 📞 Mobile: +91 9542407292
 - 🔗 GitHub: [bharathboienipalli](https://github.com/bharathboienipalli)
 - 🔗 LinkedIn: [b-bharathkumarreddy](https://www.linkedin.com/in/b-bharathkumarreddy/)
 - 🔗 HackerRank: [bharath28072005](https://www.hackerrank.com/profile/bharath28072005)
