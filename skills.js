@@ -1,15 +1,15 @@
 const skillsList = document.querySelector('.skills-list');
 
 const skills = [
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'React.js',
-  'Java',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'VS Code'
+  '🧱 HTML',
+  '🎨 CSS',
+  '⚡ JavaScript',
+  '⚛️ React.js',
+  '☕ Java',
+  '🗄️ MySQL',
+  '🔧 Git',
+  '🐙 GitHub',
+  '🖥️ VS Code'
   
 ];
 
