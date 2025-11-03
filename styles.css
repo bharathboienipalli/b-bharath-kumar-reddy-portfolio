@@ -238,12 +238,13 @@
     }
 
     /* Projects */
-    .projects-grid {
+    .projects-grid,.certifications-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
       gap: 2rem;
       margin-bottom: 3rem;
     }
+
 
     .project-card {
       background: var(--input-background);
@@ -550,9 +551,6 @@
   font-weight: 600;
   color: var(--link-color);
 }
-.project-card:hover #live-btn1{
-  color: var(--white);
-}
-.project-card:hover #git-btn1{
+.project-card:hover .project-links a {
   color: var(--white);
 }
