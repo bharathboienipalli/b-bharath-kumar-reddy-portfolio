@@ -70,7 +70,6 @@ contactForm.addEventListener('submit', (event) => {
     return;
   }
 
-  // ✅ Submit using FormData instead of JSON
   const formData = new FormData();
   formData.append("name", name);
   formData.append("email", email);
