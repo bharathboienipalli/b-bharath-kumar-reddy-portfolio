@@ -23,7 +23,7 @@ const certifications = [
     pdfLink: 'https://drive.google.com/file/d/1lRSbbLf_SHUmY9oYO9y778_oa3NFmKT4/view?usp=drive_link'
   },
   {
-    id: 3,
+    id: 4,
     img: './Files/Python_SpokenTutorial.jpg',
     title: 'Python 3.4.3 Training ',
     provider: 'Spoken Tutorial, IIT Bombay',
