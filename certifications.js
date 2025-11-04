@@ -6,21 +6,28 @@ const certifications = [
     img: './Files/HTML & CSS.jpg',
     title: 'HTML and CSS',
     provider: 'BitDegree',
-    pdfLink: './Files/HTML & CSS.pdf'
+    pdfLink: 'https://drive.google.com/file/d/1EXGL-4o-LtNYrrKap9dwoIUNXDgi07si/view?usp=drive_link'
   },
   {
     id: 2,
     img: './Files/Java_HackerRank_Certificate.jpg',
     title: 'Java Certificate',
     provider: 'HackerRank',
-    pdfLink: './Files/Java_HackerRank_Certificate.pdf'
+    pdfLink: 'https://drive.google.com/file/d/1eXxUKx2IGnwNP8VfFHymQ2unTEurJqPN/view?usp=drive_link'
   },
   {
     id: 3,
     img: './Files/Database and sql.jpg',
     title: 'Database and SQL',
     provider: 'Infosys | Springboard',
-    pdfLink: './Files/Database and sql.pdf'
+    pdfLink: 'https://drive.google.com/file/d/1lRSbbLf_SHUmY9oYO9y778_oa3NFmKT4/view?usp=drive_link'
+  },
+  {
+    id: 3,
+    img: './Files/Python_SpokenTutorial.jpg',
+    title: 'Python 3.4.3 Training ',
+    provider: 'Spoken Tutorial, IIT Bombay',
+    pdfLink: 'https://drive.google.com/file/d/1o09Kpr3eqt3y2bVX9mGkJ4AsYL-vW72F/view?usp=drive_link'
   }
 ];
 
