@@ -28,7 +28,15 @@ const certifications = [
     title: 'Python 3.4.3 Training ',
     provider: 'Spoken Tutorial, IIT Bombay',
     pdfLink: 'https://drive.google.com/file/d/1o09Kpr3eqt3y2bVX9mGkJ4AsYL-vW72F/view?usp=drive_link'
-  }
+  },
+  {
+  "id": 5,
+  "img": "./Files/B_Bharath_Kumar_Reddy_HPE_Software_Engineering_Certificate.jpg",
+  "title": "Software Engineering Job Simulation Certificate",
+  "provider": "Hewlett Packard Enterprise, Forage",
+  "pdfLink": "https://drive.google.com/file/d/1T1ciXNHsFUSCPs2aekgHaebzoLSJkmoz/view?usp=sharing"
+}
+
 ];
 
 let certificationsHTML = '';
